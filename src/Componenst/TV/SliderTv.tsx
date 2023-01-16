@@ -26,10 +26,6 @@ const SliderTv = ({ data, slidIndex }: ISlideProps) => {
   const [index, setIndex] = useState(0);
   const [back, setBack] = useState(false);
 
-  useEffect(() => {
-    scrollY.onChange(() => console.log(scrollY.get()));
-  }, []);
-
   const increaseIndex = () => {
     if (data) {
       if (leaving) return;

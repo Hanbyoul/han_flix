@@ -43,8 +43,6 @@ const MovieOverlay = ({
       getDetailMovie(movieId)
     );
 
-  console.log("detailMovie", detailMovie);
-
   const onOverlayClick = () => {
     if (movieClicked === 5) {
       history.push(`/search?keyword=${keyword}`);
