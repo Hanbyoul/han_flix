@@ -32,9 +32,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build",
-    "predeploy": "npm run build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -58,6 +56,5 @@
     "@types/react-router-dom": "5.3",
     "@types/react-star-ratings": "^2.3.0",
     "@types/styled-components": "^5.1.26"
-  },
-  "homepage": "https://Hanbyoul.githib.io/Hanflix"
+  }
 }
