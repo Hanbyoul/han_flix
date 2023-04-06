@@ -1,9 +1,12 @@
 # <img src="https://user-images.githubusercontent.com/99850326/230270428-ab29663b-c166-43ac-a474-094308b1fd0a.png" width="36"/> HanFlix
 
+<br/>
+
 ## 프로젝트 개요
 
 - NETFLIX 클론코딩 프로젝트입니다.
 - 배포 https://gleaming-toffee-a16265.netlify.app/
+
   <br/>
 
 ### 사용 기술 스택
@@ -23,32 +26,49 @@ npm start
 
 ## 구성
 
+
+
 | Banner  |  Home  |
 | :-----: | :----: |
-|    1    |   2    |
+|    <img src="https://user-images.githubusercontent.com/99850326/230311666-c6680360-3f00-4399-8101-ed2db20e3ac9.png" width="450"/>    |   <img src="https://user-images.githubusercontent.com/99850326/230311129-3b7f267c-7add-42f7-8428-7944e4af4b8e.png" width="450"  />    |
 | TV Show | Search |
-|    3    |   4    |
+|    <img src="https://user-images.githubusercontent.com/99850326/230312214-2c80bbc7-9741-4640-ac2f-d6fca7eb68cb.png" width="450" />    |  <img src="https://user-images.githubusercontent.com/99850326/230309755-fa70bc0c-da09-4f9d-a922-c8aee3db7d28.png " width="450" />   |
 
 <br/>
+
 ## 기능
 
 - 배너
 
   - 영화 및 TV 페이지 이동시 인기 목록에서 랜덤하게 선택되어 배너가 변경됩니다.
   - 영화 페이지는 예고편이 제공됩니다.
-    <br/>
-    ![배너,예고편](https://user-images.githubusercontent.com/99850326/230305615-40d6f04b-399c-43a1-9174-6c0995b6817f.gif)
-    <br/>
+  
+  <br/>
+    
+  ![배너,예고편](https://user-images.githubusercontent.com/99850326/230305615-40d6f04b-399c-43a1-9174-6c0995b6817f.gif)
+    
+  <br/>
 
 - 영화&TV - 상영중 , 상영예정 , 인기있는 , 역대 영화,TV 리스트를 볼 수 있습니다.
+
   <br/>
+  
   ![슬라이드](https://user-images.githubusercontent.com/99850326/230305327-3e274797-5591-4372-87a1-869c9c04a7ed.gif)
+  
   <br/>
-  - 클릭하여 디테일 정보를 확인할 수 있습니다.
-    <br/>
-    ![영화 클릭](https://user-images.githubusercontent.com/99850326/230305164-109e577f-11af-40f3-bc69-8becee4d20d5.gif)
-    <br/>
+    
+  ![영화 클릭](https://user-images.githubusercontent.com/99850326/230305164-109e577f-11af-40f3-bc69-8becee4d20d5.gif)
+    
+  <br/>
+    
 - 검색
   - 영화와 TV를 검색할 수 있습니다.
-    <br/>
-    ![검색](https://user-images.githubusercontent.com/99850326/230308502-aca8b8f3-0a43-44ea-9352-8792bbdc6d20.gif)
+  
+  <br/>
+
+  ![검색](https://user-images.githubusercontent.com/99850326/230308502-aca8b8f3-0a43-44ea-9352-8792bbdc6d20.gif)
+
+## 프로젝트 출처
+![icon](https://user-images.githubusercontent.com/99850326/230002527-5a26ff3e-8fa8-46de-b054-516101bd5901.png) [Nomadcoders](https://nomadcoders.co/react-masterclass)
+
+- 해당 프로젝트는 Nomadcoders 온라인 강의를 바탕으로 만들어졌습니다.
