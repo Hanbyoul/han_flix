@@ -69,7 +69,7 @@ const Home = () => {
   return (
     <Wrapper>
       {isLoading ? (
-        <Loader>Loading...</Loader>
+        <Loader>Loading.....</Loader>
       ) : (
         <>
           <Banner bgphoto={makeImagePath(BannerData?.backdrop_path || "")}>
